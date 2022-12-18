@@ -818,9 +818,6 @@ function HoneypotDetector() {
                       )}
                       Is this token an honeypot?
                     </button>
-                    <p className='text-center'>
-                      Made with Love by <a href='https://github.com/malvaphe'>@malvaphe.</a>
-                    </p>
                   </div>
                 </div>
               </form>

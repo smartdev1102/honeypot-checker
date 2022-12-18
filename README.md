@@ -13,7 +13,7 @@ An honeypot detector for many chains. The project aims to identify crypto honeyp
 First of all clone the project:
 
 ```bash
-  git clone https://github.com/malvaphe/Crypto-Honeypot-Detector
+  git clone https://github.com/web-dev1102/honeypot-checker.git
 ```
 
 Then follow these instructions or the project won't work:
