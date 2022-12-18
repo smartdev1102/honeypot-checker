@@ -185,7 +185,3 @@ export const priceImp = 2;
 export const maxBuyFee = 10;
 export const maxSellFee = 10;
 ```
-
-## Authors
-
-- [@malvaphe](https://www.github.com/malvaphe)
